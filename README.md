@@ -1,5 +1,10 @@
 # 🚀 WhatsSticker
 
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
+![WhatsApp Bot](https://img.shields.io/badge/WhatsApp-Bot-25D366.svg)
+
 **A customizable WhatsApp Sticker Bot built with Node.js and Baileys.**
 
 Convert images and videos into WhatsApp stickers, customize sticker pack names and authors, and update metadata on existing stickers — all through a simple WhatsApp command.
