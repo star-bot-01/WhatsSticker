@@ -18,6 +18,34 @@ Convert images and videos into WhatsApp stickers, customize sticker pack names a
 - 🧹 **Automatic Cleanup:** Removes temporary media files after processing.
 - 🔐 **WhatsApp Authentication:** Uses Baileys multi-file authentication.
 
+## 📸 Screenshots & Demonstration
+
+### 1. Bot Connection
+Scan the QR code using WhatsApp → Linked Devices → Link a Device.
+
+![Bot Connection](Screenshots/bot-connected.png)
+
+### 2. Image to Sticker
+Reply to any image with `!sticker` to convert it into a WhatsApp sticker.
+
+![Image Sticker](Screenshots/image-sticker.png)
+
+### 3. Video to Animated Sticker
+Convert video clips into animated WhatsApp stickers.
+
+![Video Sticker](Screenshots/video-sticker.png)
+
+### 4. Custom Pack Name & Author
+Customize the sticker pack name and author using `!sticker | Pack Name | Author Name`.
+
+![Custom Pack and Author](Screenshots/custom-pack-author.png)
+
+### 5. Friends Can Use the Bot
+Your friends can also use the bot to create stickers!
+
+![Friends Using Bot](Screenshots/friends-using-bot.png)
+
+
 ## 🛠️ Built With
 
 - [Node.js](https://nodejs.org/)
